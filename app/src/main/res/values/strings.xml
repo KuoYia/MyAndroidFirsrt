@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">支付宝登录</string>
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="forgot_password">忘记密码？</string>
+    <string name="sms_login">短信验证码登录</string>
+    <string name="more">更多</string>
+    <string name="hint_account">秦大恒的手机号/邮箱/淘宝会员名</string>
+    <string name="hint_password">请输入秦大恒登录密码</string>
+</resources>
